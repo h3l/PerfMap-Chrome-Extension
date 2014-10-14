@@ -1,0 +1,19 @@
+{
+  "name": "perfmap",
+  "description": "front-end performance heatmap",
+  "version": "2.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "front-end performance heatmap"
+  },
+  "manifest_version": 2,
+   "permissions": [
+      "*://*/*"
+  ]
+}
