@@ -9,7 +9,7 @@ Install
 ========================
 
 - Download PerfMap-Chrome-Extension, unzip it
-- Customize and tontrol Google Chrome > Tools > Extensions > Load unpacked extensio
+- Customize and tontrol Google Chrome > Tools > Extensions > Load unpacked extension
 - Choose Chrome-Extension folder
 
 Usage
